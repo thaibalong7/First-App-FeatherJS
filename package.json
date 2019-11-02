@@ -40,7 +40,7 @@
     "feathers-knex": "^5.1.0",
     "feathers-objection": "^2.0.1",
     "helmet": "^3.20.0",
-    "knex": "^0.19.1",
+    "knex": "^0.19.5",
     "mysql2": "^1.6.4",
     "objection": "^1.6.9",
     "serve-favicon": "^2.5.0",
